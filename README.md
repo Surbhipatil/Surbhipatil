@@ -1,5 +1,5 @@
 <div>
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=0096FF&center=true&random=false&width=435&lines=TensorFlow+Certified+Developper+%F0%9F%90%BE" width="60%" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=0096FF&random=false&width=435&lines=TensorFlow+Certified+Developper+%F0%9F%90%BE" width="60%" />
 <br><br>
   
 # 🚀 About Me
