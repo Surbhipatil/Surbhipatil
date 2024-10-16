@@ -1,9 +1,6 @@
 <div>
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F780AF&center=true&random=false&width=435&lines=TensorFlow+Certified+Developper+%F0%9F%90%BE" width="60%" />
 <br><br>
-<br><br>
-<img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/t_Profile/v1727448589/iu_ndpms3.png" width="20%" />
-<br><br>
   
 # 🚀 About Me
 ## Hi, I'm Surbhi..! 👋
