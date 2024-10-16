@@ -19,7 +19,7 @@ Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jetson, Bert, Tran
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Surbhipati&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Surbhipatil&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Surbhipatil&label=Profile%20views&color=0e75b6&style=flat" alt="Surbhipatil" /> </p>
 
