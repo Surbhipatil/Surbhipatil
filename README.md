@@ -1,5 +1,5 @@
 <div>
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F780AF&center=true&random=false&width=435&lines=TensorFlow+Certified+%26+Developper+%F0%9F%90%BE" width="40%" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F780AF&center=true&random=false&width=435&lines=TensorFlow+Certified+Developper+%F0%9F%90%BE" width="60%" />
 <br><br>
 <pre>
     💼 Low level dev • Reverse Engineer • BinExp 
