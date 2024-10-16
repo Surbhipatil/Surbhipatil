@@ -8,15 +8,15 @@
     🐾 Music • Games • Anime • Code
 </pre>
 <br><br>
-<a href="https://discord.com/users/921518780876738602"  align="center">
+<a href="https://discord.com/users/921518780876738602">
     <img src="https://lanyard.cnrad.dev/api/921518780876738602?theme=light&bg=F4BFC7&borderRadius=15px&animated=true" width="30%" align="center">
 </a>
 <br><br><br><br>
     
 
-<img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/r_60/v1727377967/jpA9elt_yhu6cj.png" width="25%" align="left" />
+<img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/r_60/v1727377967/jpA9elt_yhu6cj.png" width="25%" />
 <br><br>
-<img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/t_Profile/v1727448589/iu_ndpms3.png" width="20%" align="right" />
+<img src="https://res.cloudinary.com/dwvfmx0qq/image/upload/t_Profile/v1727448589/iu_ndpms3.png" width="20%" />
 <br><br><br><br>
 
 
