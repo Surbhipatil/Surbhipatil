@@ -20,3 +20,11 @@ Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jetson, Bert, Tran
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Surbhipatil&label=Profile%20views&color=0e75b6&style=flat" alt="Surbhipatil" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Surbhipatil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📫 How to reach me...
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surbhi-patil-891b9825a/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+
+
